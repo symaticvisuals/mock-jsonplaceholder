@@ -10,5 +10,189 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+   "users": [
+    {
+      "id": 1,
+      "first_name": "Tod",
+      "last_name": "Handrick",
+      "email": "thandrick0@oracle.com",
+      "profile": "CPP"
+    },
+    {
+      "id": 2,
+      "first_name": "Demetris",
+      "last_name": "Seldon",
+      "email": "dseldon1@hao123.com",
+      "profile": "Asset Management"
+    },
+    {
+      "id": 3,
+      "first_name": "Dianna",
+      "last_name": "Godsell",
+      "email": "dgodsell2@dyndns.org",
+      "profile": "Radio Host"
+    },
+    {
+      "id": 4,
+      "first_name": "Daisy",
+      "last_name": "Wilshire",
+      "email": "dwilshire3@nifty.com",
+      "profile": "Railway"
+    },
+    {
+      "id": 5,
+      "first_name": "Bob",
+      "last_name": "Fillgate",
+      "email": "bfillgate4@google.com.au",
+      "profile": "NCover"
+    },
+    {
+      "id": 6,
+      "first_name": "Iolande",
+      "last_name": "Aspell",
+      "email": "iaspell5@ca.gov",
+      "profile": "Brand Development"
+    },
+    {
+      "id": 7,
+      "first_name": "Fielding",
+      "last_name": "Feedham",
+      "email": "ffeedham6@gov.uk",
+      "profile": "Irrigation Management"
+    },
+    {
+      "id": 8,
+      "first_name": "Dedra",
+      "last_name": "Woollends",
+      "email": "dwoollends7@uol.com.br",
+      "profile": "DLL"
+    },
+    {
+      "id": 9,
+      "first_name": "Modestia",
+      "last_name": "Whistlecraft",
+      "email": "mwhistlecraft8@bluehost.com",
+      "profile": "IBM Servers"
+    },
+    {
+      "id": 10,
+      "first_name": "Andee",
+      "last_name": "Goodlake",
+      "email": "agoodlake9@shareasale.com",
+      "profile": "VMware VTSP"
+    },
+    {
+      "id": 11,
+      "first_name": "Karole",
+      "last_name": "Sam",
+      "email": "ksama@biblegateway.com",
+      "profile": "PPC Bid Management"
+    },
+    {
+      "id": 12,
+      "first_name": "Stesha",
+      "last_name": "Triplett",
+      "email": "striplettb@patch.com",
+      "profile": "Gstreamer"
+    },
+    {
+      "id": 13,
+      "first_name": "Judas",
+      "last_name": "Tuckley",
+      "email": "jtuckleyc@thetimes.co.uk",
+      "profile": "IFC"
+    },
+    {
+      "id": 14,
+      "first_name": "Birgitta",
+      "last_name": "Hollingsbee",
+      "email": "bhollingsbeed@livejournal.com",
+      "profile": "Akka"
+    },
+    {
+      "id": 15,
+      "first_name": "Liv",
+      "last_name": "Georgiades",
+      "email": "lgeorgiadese@squidoo.com",
+      "profile": "BSC"
+    },
+    {
+      "id": 16,
+      "first_name": "Aeriell",
+      "last_name": "Mirfield",
+      "email": "amirfieldf@dyndns.org",
+      "profile": "UEFI"
+    },
+    {
+      "id": 17,
+      "first_name": "Pieter",
+      "last_name": "Balden",
+      "email": "pbaldeng@shinystat.com",
+      "profile": "TF-CBT"
+    },
+    {
+      "id": 18,
+      "first_name": "Dulciana",
+      "last_name": "Concklin",
+      "email": "dconcklinh@vinaora.com",
+      "profile": "Ntop"
+    },
+    {
+      "id": 19,
+      "first_name": "Ondrea",
+      "last_name": "Ateggart",
+      "email": "oateggarti@netscape.com",
+      "profile": "DFR"
+    },
+    {
+      "id": 20,
+      "first_name": "Pascale",
+      "last_name": "Matthieson",
+      "email": "pmatthiesonj@epa.gov",
+      "profile": "NSIS"
+    },
+    {
+      "id": 21,
+      "first_name": "Hortense",
+      "last_name": "Britton",
+      "email": "hbrittonk@woothemes.com",
+      "profile": "Driven By Results"
+    },
+    {
+      "id": 22,
+      "first_name": "Aimee",
+      "last_name": "Clewarth",
+      "email": "aclewarthl@reuters.com",
+      "profile": "Rock Climbing"
+    },
+    {
+      "id": 23,
+      "first_name": "Darleen",
+      "last_name": "Alfonsetto",
+      "email": "dalfonsettom@goo.ne.jp",
+      "profile": "Runway"
+    },
+    {
+      "id": 24,
+      "first_name": "Nahum",
+      "last_name": "Bandey",
+      "email": "nbandeyn@hubpages.com",
+      "profile": "Banners"
+    },
+    {
+      "id": 25,
+      "first_name": "Jacquette",
+      "last_name": "Slingsby",
+      "email": "jslingsbyo@bloglines.com",
+      "profile": "Team Management"
+    },
+    {
+      "id": 26,
+      "first_name": "Halley",
+      "last_name": "Batalle",
+      "email": "hbatallep@friendfeed.com",
+      "profile": "CNN Pathfire"
+    }
+  ]
 }
